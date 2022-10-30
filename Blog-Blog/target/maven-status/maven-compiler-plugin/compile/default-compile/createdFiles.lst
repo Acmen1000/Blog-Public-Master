@@ -1,0 +1,5 @@
+com\blog\YSBlogApplication.class
+com\blog\controller\BlogLoginController.class
+com\blog\controller\CategoryController.class
+com\blog\controller\ArticleController.class
+com\blog\config\SecurityConfig.class
